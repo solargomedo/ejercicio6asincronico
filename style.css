@@ -1,8 +1,22 @@
 body{
     background-color: rgb(180, 234, 216);
+    box-shadow: 0px 0px 30px rgb(9, 9, 9);
+    
 }
 
 
 .card{
     opacity: 75%;
 }
+
+.container{
+
+    box-shadow: 0px 0px 30px rgb(9, 9, 9);
+}
+
+.imagenmargarita{
+
+    width: 70px;
+    height: 60px;
+}
+
